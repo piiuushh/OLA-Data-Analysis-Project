@@ -35,6 +35,7 @@ The dataset includes synthetic or anonymized ride data with fields such as:
 19. Customer_Rating
 
 ## 🧠 SQL Queries Answered
+<a href="https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/SQL%20Query">SQL Queries</a>
 1. Retrieve all successful bookings:
 2. Find the average ride distance for each vehicle type:
 3. Get the total number of cancelled rides by customers:
@@ -47,7 +48,11 @@ The dataset includes synthetic or anonymized ride data with fields such as:
 10. List all incomplete rides along with the reason:
 
 ## 📊 Power BI Dashboard Visualizations
-
+<a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Overall%201.png">Dashboard 1</a>
+<a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Vehicle%20Type%202.png">Dashboard 2</a>
+<a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Revenue%203.png">Dashboard 3</a>
+<a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Cancellation%204.png">Dashboard 4</a>
+<a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Ratings%205.png">Dashboard 5</a>
 The Power BI dashboard includes:
 1. Ride Volume Over Time
 2. Booking Status Breakdown
