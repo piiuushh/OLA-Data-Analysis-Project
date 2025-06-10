@@ -54,6 +54,8 @@ The dataset includes synthetic or anonymized ride data with fields such as:
 <a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Cancellation%204.png">Dashboard 4</a>
 <a href= "https://github.com/piiuushh/OLA-Data-Analysis-Project/blob/main/Ratings%205.png">Dashboard 5</a>
 The Power BI dashboard includes:
+
+
 QUESTIONS
 1. Ride Volume Over Time
 2. Booking Status Breakdown
